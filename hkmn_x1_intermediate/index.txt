@@ -1,0 +1,1 @@
+V	251107071225Z		2DC1D400620C7CFD102E0B85143660BB	hkmn_x1_intermediate.crt	/C=US/O=HKMN/OU=IT/L=Los Angeles/ST=California/CN=HKMN Certificate Authority X1 Intermediate

@@ -1,0 +1,1 @@
+V	211108071202Z		CEC0F21DC795A8C5936F28AB86004FD0	hkmn_r1_root.crt	/C=US/O=HKMN/OU=IT/L=Los Angeles/ST=California/CN=HKMN Certificate Authority R1 Root --expire 3650 --max-path-len 1
